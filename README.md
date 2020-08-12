@@ -4,7 +4,7 @@ world famous video gamer downthecrop. I make League of Legends videos and talk a
 
 https://downthecrop.xyz/
 
-Skills: PYTHON / JAVA / KOTLIN / JS
+Skills: PYTHON / JAVA / KOTLIN / JS / BASH
 
 
 
