@@ -1,6 +1,5 @@
 ### downthecrop
-#### world famous video gamer downthecrop
-world famous video gamer downthecrop. I make League of Legends videos and talk about GNU+Linux. Multi-season Platinum+ finishes on NA server as all roles. 10+ year ranked veteran of the rift with an iron will. Privacy enthusiast and technology philosopher.
+world famous video gamer and computer programmer. i make youTube videos and stream on twitch. privacy enthusiast and technology philosopher.
 
 https://downthecrop.xyz/
 
