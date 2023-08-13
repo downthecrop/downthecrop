@@ -3,4 +3,4 @@ world famous video gamer and computer programmer. i make youtube videos and stre
 
 https://downthecrop.xyz/
 
-Skills: PYTHON / JAVA / KOTLIN / JS / BASH
+PYTHON / JAVA / KOTLIN / C# / UNITY ENGINE / JS / VUE / BASH
