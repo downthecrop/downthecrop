@@ -1,6 +1,5 @@
 ### downthecrop
-world famous video gamer and computer programmer. i make youtube videos and stream on twitch. privacy enthusiast and technology philosopher.
-
+world famous video gamer and computer programmer.
 https://downthecrop.xyz/
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
